@@ -53,9 +53,8 @@ To run the project:
 
 ## Technologies Used
 - [e.g., Python 3.x]
-- [e.g., Flask/Django/Node.js]
-- [e.g., HTML/CSS/JavaScript]
-- [Add more as applicable]
+- [e.g., Flask]
+- [OpenAI]
 
 ## Contributing
 Contributions are welcome! To contribute:
